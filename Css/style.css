@@ -1,0 +1,20 @@
+
+body{
+    background-color: rgb(204, 204, 204);
+}
+.main{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin: auto;
+    position: relative;
+    width: 830px;
+    height: 1132px;
+    border: 3px solid rgba(0,0,0,0.1); 
+}
+.leftSide{
+    background-color: rgb(0, 137, 123);
+    color: white;
+}
+.rightSide{
+    background-color: white;
+}

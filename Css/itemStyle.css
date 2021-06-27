@@ -1,0 +1,106 @@
+img{
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-top: 100px;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.name{
+    text-align: center;
+    font-size: 110%;
+}
+strong{
+    font-size: 140%;
+}
+.profile{
+    margin-top: 50px;
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns: 10% 70%;
+    line-height: 0px;
+    font-size: 14px;
+}
+i{
+    text-align: center;
+    margin: auto;
+}
+.goal{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+.fa-leaf{
+    background-color: white;
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border: 10px solid white;
+    color: rgb(0, 137, 123);
+    font-size: 15px;
+    margin: auto;
+}
+ul{
+    font-size: small;
+    text-align: justify;
+    padding-left: 13px;
+}
+.skill{
+    font-size: small;
+}
+.fa-suitcase{
+    background-color: white;
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border: 10px solid white;
+    color: rgb(0, 137, 123);
+    font-size: 15px;
+}
+.tiengAnhOut{
+    border: 1px solid white;
+    height: 10px;
+    width: 100%;
+    background-color: white;
+}
+.tiengAnhIn{
+    height: 10px;
+    width: 80%;
+    background-color: rgb(0, 137, 123);
+}
+.tinVpOut{
+    border: 1px solid white;
+    height: 10px;
+    width: 100%;
+    background-color: white;
+}
+.tinVpIn{
+    height: 10px;
+    width: 100%;
+    background-color: rgb(0, 137, 123);
+}
+.infor{
+    margin-left: 30px;
+    margin-top: 80px;
+    margin-right: 40px;
+    color:rgb(0, 137, 123);
+}
+.fa-briefcase{
+    background-color: rgb(0, 137, 123);
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border: 10px solid rgb(0, 137, 123);
+    color: white;
+    font-size: 20px;
+}
+table{
+    color: black;
+    font-size: 90%;
+}
+.exp{
+    margin-top: 20px;
+}
+a{
+    color: white;
+}
